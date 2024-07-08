@@ -1,0 +1,15 @@
+.wiki-details{
+    list-style-type:none;
+    width: 60%;
+}
+.wiki-title{
+    color: #1a7ae3;
+    text-decoration: none;
+    font-size: 20px;
+}
+.wiki-link{
+    color: #006621;
+    text-decoration: none;
+    font-size: 15px;
+    margin-bottom: 4px;
+}
